@@ -51,15 +51,10 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'djoser',
     'accounts',
-    'notes',
-    'events',
     'content',
-    'user_progress',
     'user_extras',
-    'platform_specifics',
     'corsheaders',
     'import_export',
-    'payments',
     'social_django'
 ]
 
